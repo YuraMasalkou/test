@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="60" viewBox="0 0 92 60">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 24px;
+        fill: #fff;
+        font-family: "Niagara Engraved";
+        text-decoration: underline;
+      }
+    </style>
+  </defs>
+  <image id="Слой_1" data-name="Слой 1" x="6" width="86" height="60" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAA8CAYAAAD8OU3LAAAD/0lEQVR4nO2cQUgVQRjH//M0lQoFow5hhzrksUPRpUPUJUIoDyFBh4IOEQSBEATRKaEgiG51iZDo4CkLCroEHaMOHTO6JRFYmWGiov5jbEbGcfftvPXN7rz35g+DuvvtN9/8dt434+zOEyQRmK4CGAbwBMBNAMEF6KLQwF4HcNv4exTARQDLJcaUSyGBtaFqPQdwFsB8OWHlUyWQOG5ZUGUaWFC/nwbwCkBPSbHlk+yxJZc7XK8rKp5jJGeMMx9I7gwgXqcSGtTL1vlDJKeM859I9kWw6UXm9vsZUHXpJ/nVsJtUxyJYq0ioDwxQyyTPZ1zTp3qr1pTqzREs06Gec7xW5tf3xrUzKg+3PNg2ko9yQtWlh+Qbw8c8ycFWBiuhPjWALJI8k9NXJ8lx6wZdaEWwSVBP1cHnY2vwG24lsB0kx+oMVReZr+9ZcEdaAayE+sJo9BzJkx7quWHBfah6dFOCTYJ63GNDLqlcqzWmYmg6sKMFQtVlSKUardEywfpa3foJoBfAXwADAN4WsOwhdQLAOIAuAL8A7Cio3g3ytbrVpn5+KRCq1GsAE1YMpSiUZcOmUwTrSRGsJ0WwnhTBelIE60ntgcSxFUBHhs0igLmC4tm0Quix8rH3LIDpjDKrbBtCIYAdku83ONgJZdsQCiEV6Ju7BOBlis2AirVhxoRQcizUusJgyrnfjfbCRpwVeFIE60kRrCdFsJ4UwXpSBOtJEawn+Z7H9gP46GBTlj9v8gVWv40tH+odqPGaIvx5ly+wdwFcA9DpaL+grinKn3eFuB2pKRQHL0+KYD0pgvWkCNaTVlfu0wYwIVwW9sMSyYp6frakSiltWleLBtyIQLXMTqLbkXTMt5oqFaQBLKOjxBzrSRGsJ4X0MNGrik4HTdlj6wVxbT9BDjn12KzpWC0jcYovIYRghk1de10tbbJtk2z0KfkmuRBiqUKyXW/fyQpAOjQaV6k2PcuCYPlKhGrZeJFdR1qbTDu7Jxvn+P80UZF0hRDLLiAsNVUaqccNVD7k99e05Rq8pAOSG/6rqUVZk/YiemoeWzsNpPkpfFagbsq6Y6v7oqwAN7NOXM1flfyYu66kw4V+nNc2lyXkzqQBwi4O2gbgoEscSfXkUVKcQoiVXGDrdbetBiWuW6jfu0nud3Ap09NILfVvVgmfvr0ke13BHpYzhwwb+aCvW9tVg19tKqN6Xbc1OHa5fO+WEEI+63omd0XK3eFV6nCJo2bJ71LQ7pyWDUnuUw2eBDADYAUJd5zkUQXhG4AfCsYe9Sr8hBBi2nEeu9tY8pM3aguA70II+bp8Vcnpo9rqKeNcdzOsaZW0cx2AZfxHALwTQvwxfJg20t8uANuFEJ//AeWVmT2Mh81OAAAAAElFTkSuQmCC"/>
+  <text id="GooDCardboard" class="cls-1" x="0.189" y="40.535">GooDCardboard</text>
+</svg>
